@@ -1,16 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 18 10:32:00 2019
-
-@author: 018614
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 18 19:00:20 2019
-
-@author: ZJH
-"""
 
 import pandas as pd
 import numpy as np
